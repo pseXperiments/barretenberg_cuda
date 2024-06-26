@@ -1,1 +1,0 @@
-barretenberg_module(indexed_tree_bench crypto_poseidon2 crypto_merkle_tree)

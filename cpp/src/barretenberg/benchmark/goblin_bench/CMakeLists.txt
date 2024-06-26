@@ -1,1 +1,0 @@
-barretenberg_module(goblin_bench eccvm translator_vm stdlib_honk_recursion stdlib_sha256 crypto_merkle_tree)

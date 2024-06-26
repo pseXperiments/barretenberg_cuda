@@ -1,6 +1,0 @@
-add_subdirectory(hash)
-add_subdirectory(commitment)
-add_subdirectory(encryption)
-add_subdirectory(primitives)
-add_subdirectory(honk_recursion)
-add_subdirectory(plonk_recursion)
